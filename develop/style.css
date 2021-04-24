@@ -3,7 +3,12 @@ body {
     font-size: 16px;
     line-height: 1;
   }
-  
+
+.dorei {
+    font-size: larger;
+    color: rgb(204, 112, 112);
+}  
+
   textarea{
     background: transparent;
     border: none;
