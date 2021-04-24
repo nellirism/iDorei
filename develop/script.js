@@ -37,14 +37,12 @@ var getTasks = function() {
             createTask(task, hourDiv);
         })
     }
-
     // make sure the past/current/future time is reflected
     auditTasks()
 }
 
 var createTask = function(taskText, hourDiv) {
     // create a task in the row that corresponds to the specified hour 
-
     var taskDiv = hourDiv.find(".task");
     var taskP = $("<p>")
         .addClass("description")
