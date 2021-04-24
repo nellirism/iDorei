@@ -19,7 +19,7 @@ https://nellirism.github.io/iDorei/
 <a name="demo"></a>
 ## iDorei Demo
 
-****************************************
+https://user-images.githubusercontent.com/71202250/115973691-e0393180-a50b-11eb-86ab-cb75c3c17174.mp4
 
 <a name="story"></a>
 ## User Story
