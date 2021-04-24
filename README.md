@@ -14,7 +14,7 @@ The iDorei Work Day application is designed to help you to set your work momentu
 <a name="urlz"></a>
 ## Follow The Link:
 
-****************************************
+https://nellirism.github.io/iDorei/
 
 <a name="demo"></a>
 ## iDorei Demo
